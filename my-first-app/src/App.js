@@ -2,15 +2,15 @@
 import './App.css';
 // import {UserCard} from './components/UserCard';
 import Header from './components/headerComponents/Header';
-import  './components/Content';
+import Content from './components/contentComponents/Content';
 import './components/Footer';
 
 function App() {
   return (
     <div className='App'>
       <Header/>
-      {/* <Content/>
-      <Footer/> */}
+      <Content/>
+      {/* <Footer/> */}
     </div>
   )
 }

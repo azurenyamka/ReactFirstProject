@@ -2,8 +2,8 @@ const Navbar = ()=>{
     return (
         <nav className="navbar">
             <div className="logo-navbar">
-                <img src="./images/HeaderFigmaImg/Leap.png"/>
-                <img src="./images/HeaderFigmaImg/Hire Me.png"/>
+                <img src="./images/HeaderFigmaImg/Logo.svg"/>
+                <img src="./images/HeaderFigmaImg/Hire Me.svg"/>
             </div>
             <ul className="btns-navbar">
                 <li>PORTFOLIO</li>
